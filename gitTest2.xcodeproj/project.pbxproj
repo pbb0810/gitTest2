@@ -15,6 +15,7 @@
 		2BCE9ED62320D4EC0065B479 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9ED52320D4EC0065B479 /* main.m */; };
 		2BCE9EE02320D4EC0065B479 /* gitTest2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EDF2320D4EC0065B479 /* gitTest2Tests.m */; };
 		2BCE9EEB2320D4EC0065B479 /* gitTest2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EEA2320D4EC0065B479 /* gitTest2UITests.m */; };
+		2BCE9EFA2320D5530065B479 /* liveModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EF92320D5530065B479 /* liveModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		2BCE9EE62320D4EC0065B479 /* gitTest2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTest2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BCE9EEA2320D4EC0065B479 /* gitTest2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTest2UITests.m; sourceTree = "<group>"; };
 		2BCE9EEC2320D4EC0065B479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BCE9EF82320D5530065B479 /* liveModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = liveModel.h; sourceTree = "<group>"; };
+		2BCE9EF92320D5530065B479 /* liveModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = liveModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				2BCE9ED12320D4EC0065B479 /* LaunchScreen.storyboard */,
 				2BCE9ED42320D4EC0065B479 /* Info.plist */,
 				2BCE9ED52320D4EC0065B479 /* main.m */,
+				2BCE9EF82320D5530065B479 /* liveModel.h */,
+				2BCE9EF92320D5530065B479 /* liveModel.m */,
 			);
 			path = gitTest2;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				2BCE9ECB2320D4EB0065B479 /* ViewController.m in Sources */,
 				2BCE9ED62320D4EC0065B479 /* main.m in Sources */,
 				2BCE9EC82320D4EB0065B479 /* AppDelegate.m in Sources */,
+				2BCE9EFA2320D5530065B479 /* liveModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
