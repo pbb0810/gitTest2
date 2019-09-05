@@ -16,6 +16,7 @@
 		2BCE9EE02320D4EC0065B479 /* gitTest2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EDF2320D4EC0065B479 /* gitTest2Tests.m */; };
 		2BCE9EEB2320D4EC0065B479 /* gitTest2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EEA2320D4EC0065B479 /* gitTest2UITests.m */; };
 		2BCE9EFA2320D5530065B479 /* liveModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9EF92320D5530065B479 /* liveModel.m */; };
+		2BCE9EFC2321121A0065B479 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2BCE9EFB2321121A0065B479 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		2BCE9EEC2320D4EC0065B479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BCE9EF82320D5530065B479 /* liveModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = liveModel.h; sourceTree = "<group>"; };
 		2BCE9EF92320D5530065B479 /* liveModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = liveModel.m; sourceTree = "<group>"; };
+		2BCE9EFB2321121A0065B479 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		2BCE9EBA2320D4EB0065B479 = {
 			isa = PBXGroup;
 			children = (
+				2BCE9EFB2321121A0065B479 /* .gitignore */,
 				2BCE9EC52320D4EB0065B479 /* gitTest2 */,
 				2BCE9EDE2320D4EC0065B479 /* gitTest2Tests */,
 				2BCE9EE92320D4EC0065B479 /* gitTest2UITests */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BCE9EFC2321121A0065B479 /* .gitignore in Resources */,
 				2BCE9ED32320D4EC0065B479 /* LaunchScreen.storyboard in Resources */,
 				2BCE9ED02320D4EC0065B479 /* Assets.xcassets in Resources */,
 				2BCE9ECE2320D4EB0065B479 /* Main.storyboard in Resources */,
