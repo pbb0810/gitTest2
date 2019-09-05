@@ -24,5 +24,9 @@
     NSLog(@"注册功能");
 }
 
-
+-(void)viewWillAppear:(BOOL)animated
+{
+    [super viewWillAppear:animated];
+    NSLog(@"ddddddd");
+}
 @end
