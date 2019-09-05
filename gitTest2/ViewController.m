@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"创建首页功能");
+    NSLog(@"完成登录功能");
 }
 
 
