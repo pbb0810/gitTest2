@@ -29,4 +29,9 @@
     [super viewWillAppear:animated];
     NSLog(@"ddddddd");
 }
+
+-(void)viewDidAppear:(BOOL)animated
+{
+    [super viewDidAppear:animated];
+}
 @end
