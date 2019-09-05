@@ -15,11 +15,12 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
     
+    [super viewDidLoad];
     NSLog(@"创建首页功能");
     NSLog(@"完成登录功能");
     NSLog(@"直播功能");
+    NSLog(@"聊天功能");
 }
 
 
